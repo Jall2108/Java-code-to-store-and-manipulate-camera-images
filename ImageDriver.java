@@ -1,10 +1,4 @@
-/**
- * Jack O Callaghan
- *20258968
- /**
- * Jack O Callaghan
- *20258968
- */
+
 public class ImageDriver {
 
     public static void main(String[] args) {
