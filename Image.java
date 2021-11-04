@@ -1,10 +1,4 @@
-/**
- * Jack O Callaghan
- *20258968
- /**
- * Jack O Callaghan
- *20258968
- */
+
 
 class Image {
     int width;
